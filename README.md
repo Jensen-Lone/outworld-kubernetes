@@ -1,3 +1,4 @@
-# outworld-kubernetes
-orther country sources images of kubernetes 
-just for download k8s-images of other country. And connect to aliyuns.
+# outworld-kubernetes 
+Just for downloading images of docker hub. 
+And connect to aliyuns.
+Then pull from aliyuns.
